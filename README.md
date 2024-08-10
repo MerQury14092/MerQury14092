@@ -1,3 +1,13 @@
+## Обо мне
+
+Программирую на Java с 2020, занимаюсь коммерческой разработкой с 2022 года, разработал API сервис и [приложение](https://www.rustore.ru/catalog/app/com.merqury.aspu) для ВУЗа
+<hr/>
+В начале 2024 года сменил основную систему на Linux, разбираюсь в его администрировании, настраивал сетевые устройства.
+
+## Как со мной связаться
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/razenface666)
+
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
